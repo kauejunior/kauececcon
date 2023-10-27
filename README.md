@@ -1,0 +1,2 @@
+# kauececcon
+pensamento computacional
